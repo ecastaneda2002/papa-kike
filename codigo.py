@@ -1,4 +1,4 @@
-nombre = "pepa pepa"
+nombre = "enrique antonio casta berduguito"
 apellido = "castaneda"
 
 saludo = "hola "+ nombre + " " + apellido + " ?como estas?"
